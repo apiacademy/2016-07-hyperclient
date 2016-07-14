@@ -23,7 +23,7 @@ The hypermedia client example we'll work on relies on the `dom-help.js` custom l
 In production cases, you'd probably replace `dom-help.js` with JQuery or some other more robust library. I used this simple one to keep the footprint of the app small and reduce the learning curve for a helper lib.
 
 ### Semantic UI for CSS Support
-The example relies on the [[Semantic UI|http://semantic-ui.com/]] project for layout and styling. This is a very lightweight library and is also prety unobtrusive. The SPA Container HTML for this example has a handful of `DIV` elements in order to support Semantic CSS layout but there is almost no other 'cruft' HTML needed.
+The example relies on the http://semantic-ui.com/(Semantic UI) project for layout and styling. This is a very lightweight library and is also prety unobtrusive. The SPA Container HTML for this example has a handful of `DIV` elements in order to support Semantic CSS layout but there is almost no other 'cruft' HTML needed.
 
 In a production app, you might want to use a CSS library like LESS or some other common framework. Lucky for us, we won't need to interact much with the styling and things will have a good look-and-feel anyway.
  
