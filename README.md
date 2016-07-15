@@ -2,6 +2,9 @@
 
 Content for hypermedia client tutorial for 2016-07 RESTFest UK in Edinburgh
 
+## Tutorial Day
+This tutorial is set up for a 1/2 day. The aim is to get an idea of what it takes to design and code a simple  hypermedia client. There is a lot of code in this tutorial. It is possible we won't get through all of it in this one session but I included both starter templates and completed editions of each of the major coding sessions. That way you can review this after the tutorial on your own.
+
 ### Agenda
 
  - 09:00 - 09:15 : What is a Hypermedia client? (slides)
@@ -12,6 +15,19 @@ Content for hypermedia client tutorial for 2016-07 RESTFest UK in Edinburgh
  - 11:30 - 12:00 : Enabling `queries` elements 
  - 12:00 - 12:30 : Enabling `templates` elements
 
+## Prep for the Tutorial
+In order to code and run the examples, you'll need the following:
+
+ . Laptop that can run NodeJS
+ . The starter files from this repo (clone the repo or download the ZIP)
+ 
+## Background
+Below are some background comments on the reasons this hypermedia example looks the way it does.
+
+ * The Single-Page App
+ * The `dom-help.js` Library
+ * Semantic UI for CSS Support
+ 
 ### The Single-Page App
 This client example uses a [Single-Page App](https://en.wikipedia.org/wiki/Single-page_application) (SPA) implementation pattern. In some ways this is a bit of a bummer since many SPA-style apps 'break' basic browser functionality (e.g. the back button). However, for our sample example, the SPA makes it easy to build everything in one place and see it all working together. I've also left out some additional code that would make the SPA more 'browser-friendly' since that code kind of gets in the way of our exercise today.
 
