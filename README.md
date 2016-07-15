@@ -20,6 +20,8 @@ In order to code and run the examples, you'll need the following:
 
  . Laptop that can run NodeJS
  . The starter files from this repo (clone the repo or download the ZIP)
+ . https://github.com/apiacademy/2016-07-hyperclient
+ 
  
 ## Background
 Below are some background comments on the reasons this hypermedia example looks the way it does.
