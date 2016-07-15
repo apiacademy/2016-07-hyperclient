@@ -18,9 +18,9 @@ This tutorial is set up for a 1/2 day. The aim is to get an idea of what it take
 ## Prep for the Tutorial
 In order to code and run the examples, you'll need the following:
 
- . Laptop that can run NodeJS
- . The starter files from this repo (clone the repo or download the ZIP)
- . https://github.com/apiacademy/2016-07-hyperclient
+ - Laptop that can run NodeJS
+ - The starter files from this repo (clone the repo or download the ZIP)
+ - https://github.com/apiacademy/2016-07-hyperclient
  
  
 ## Background
