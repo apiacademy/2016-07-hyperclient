@@ -1,4 +1,4 @@
-# 2016-07-hyperclient
+# 2016-07 Hypermedia Client Tutorial
 
 Content for hypermedia client tutorial for 2016-07 RESTFest UK in Edinburgh
 
